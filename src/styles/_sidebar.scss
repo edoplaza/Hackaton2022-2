@@ -14,15 +14,15 @@
 
   &__button {
     border: none;
-    background: white;
+    background: gray;
     border-radius: 5px;
     font-size: 16px;
     padding: 10px;
     cursor: pointer;
 
     &--on {
-      background: black;
-      color: white;
+      background: white;
+      color: black;
     }
   }
   

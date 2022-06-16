@@ -6,9 +6,11 @@ import Counties from "../../assets/data/counties.json";
 import Bars from "../../assets/data/bars.json";
 import Cemeteries from "../../assets/data/cemeteries.json";
 import Clubs from "../../assets/data/clubs.json";
+import Designers from "../../assets/data/designers.json";
 import tombstone from "../../assets/icons/tombstone.png";
 import bar from "../../assets/icons/bar.png";
 import club from "../../assets/icons/club.png";
+import designer from "../../assets/icons/designer.png";
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN;
 
@@ -39,7 +41,7 @@ const Map = ({ layerId }) => {
         source: "counties",
         paint: {
           "fill-color": "transparent",
-          'fill-outline-color': '#ff0000'
+          'fill-outline-color': '#ffffff'
         },
         filter: ["==", "$type", "Polygon"],
       });
@@ -139,7 +141,48 @@ const Map = ({ layerId }) => {
 
         
       });
+
+      //Designers
+      map.loadImage(designer, (error, image) => {
+        if (error) throw error;
+        map.addImage("designer", image);
+        map.addSource("designers", {
+          type: "geojson",
+          data: Designers,
+        });
+
+        map.addLayer({
+          id: "designers-layer",
+          type: "symbol",
+          source: "designers",
+          layout: {
+            "icon-image": "designer",
+            "icon-size": 0.25,
+            "text-field": ["get", "title"],
+            "text-font": ["Open Sans Semibold", "Arial Unicode MS Bold"],
+            "text-size": 13,
+            "text-offset": [0, 0.5],
+            "text-anchor": "top",
+            "text-allow-overlap": true,
+            "text-max-width": 6
+          },
+          paint: {
+            "text-color": "#bb4949"
+          }
+        });
+
+        
+      });
     });
+
+    const reset = document.querySelector('#reset')
+
+    reset.addEventListener('click', () => {
+      map.flyTo({
+        center: [25.279652, 54.687157],
+        zoom: 10
+      });
+    })
 
     const barsLayer = document.querySelector('#bars-layer')
     barsLayer.addEventListener('click', () => {
@@ -173,6 +216,45 @@ const Map = ({ layerId }) => {
         cemeteriesLayer.classList.add('Sidebar__button--on')
       }
     })
+
+    const designersLayer = document.querySelector('#designers-layer')
+    designersLayer.addEventListener('click', () => {
+      if (designersLayer.classList.contains('Sidebar__button--on')) {
+        map.setLayoutProperty('designers-layer', 'visibility', 'none');
+        designersLayer.classList.remove('Sidebar__button--on')
+      } else {
+        map.setLayoutProperty('designers-layer', 'visibility', 'visible');
+        designersLayer.classList.add('Sidebar__button--on')
+      }
+    })
+
+    map.on('click', 'designers-layer', (e) => {
+      map.flyTo({
+        center: e.features[0].geometry.coordinates,
+        zoom: 16
+      });
+    });
+
+    map.on('click', 'bars-layer', (e) => {
+      map.flyTo({
+        center: e.features[0].geometry.coordinates,
+        zoom: 16
+      });
+    });
+
+    map.on('click', 'clubs-layer', (e) => {
+      map.flyTo({
+        center: e.features[0].geometry.coordinates,
+        zoom: 16
+      });
+    });
+
+    map.on('click', 'cemeteries-layer', (e) => {
+      map.flyTo({
+        center: e.features[0].geometry.coordinates,
+        zoom: 16
+      });
+    });
 
     return () => map.remove();
   }, []);
