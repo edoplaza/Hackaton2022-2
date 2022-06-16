@@ -1,25 +1,365 @@
 {
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.135706, 54.721856]
-      },
+	"type": "FeatureCollection",
+	"features": [{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.115711, 54.640230]
+			},
       "properties": {
-        "title": "Eduardo"
+				"title": "Gurelių kapinės"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [25.320319, 54.707186]
-      },
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.131623, 54.706932]
+			},
       "properties": {
-        "title": "Mihkel"
+				"title": "Platiniškių kapinės"
       }
-    }
-  ]
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.039528, 54.634143]
+			},
+      "properties": {
+				"title": "Račkūnų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.163957, 54.713437]
+			},
+      "properties": {
+        "title": "Varnės kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.187342, 54.643499]
+			},
+      "properties": {
+        "title": "Panerių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.210438, 54.725276]
+			},
+      "properties": {
+        "title": "Buivydiškių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.231801, 54.712603]
+			},
+      "properties": {
+        "title": "Sudervės katalikų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.235266, 54.714938]
+			},
+      "properties": {
+        "title": "Sudervės žydų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.238055, 54.706419]
+			},
+      "properties": {
+				"title": "Saltoniškės Cemetery"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.246423, 54.685165]
+			},
+      "properties": {
+				"title": "Karių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.248056, 54.683630]
+			},
+      "properties": {
+				"title": "Vingio parko karių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.216358, 54.687426]
+			},
+      "properties": {
+        "title": "Gyvūnų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.237235, 54.665037]
+			},
+      "properties": {
+				"title": "Vertimas žodžiu VILNIUJE"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.279234, 54.745269]
+			},
+      "properties": {
+        "title": "Verkiu Cemetery"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.278748, 54.742537]
+			},
+      "properties": {
+				"title": "Jeruzalės kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.321829, 54.699705]
+			},
+      "properties": {
+				"title": "Antakalnio kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.289472, 54.692450]
+			},
+      "properties": {
+				"title": "The old Jewish cemetery in Vilnius"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.291105, 54.691093]
+			},
+      "properties": {
+				"title": "Old Vilna Jewish Cemetery at Piramónt"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.293364, 54.690872]
+			},
+      "properties": {
+        "title": "And another old Jewish Cemetery"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.306946, 54.680533]
+			},
+      "properties": {
+				"title": "Bernardinų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.303825, 54.670639]
+			},
+      "properties": {
+				"title": "Senosios Rasų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.307666, 54.688186]
+			},
+      "properties": {
+				"title": "Užupio senosios žydų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.312254, 54.694482]
+			},
+      "properties": {
+				"title": "Saulės kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.325018, 54.700150]
+			},
+      "properties": {
+        "title": "Našlaičių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.287566, 54.653185]
+			},
+      "properties": {
+				"title": "Liepynės kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.294411, 54.656834]
+			},
+      "properties": {
+				"title": "Vilniaus karaimų totorių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.303687, 54.668901]
+			},
+      "properties": {
+				"title": "Žilinskių šeimos kapo koplyčia"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"title": "Stačiatikių kapinės",
+				"coordinates": [25.296585, 54.666792]
+			},
+      "properties": {
+				"title": "Stačiatikių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.291649, 54.665997]
+			},
+      "properties": {
+				"title": "Sentikių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.337822, 54.662766]
+			},
+      "properties": {
+				"title": "Gurių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.363903, 54.706728]
+			},
+      "properties": {
+				"title": "Rokantiškių kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.182595, 54.662695]
+			},
+      "properties": {
+				"title": "Bukčių senosios kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.281794, 54.611195]
+			},
+      "properties": {
+				"title": "Salininkų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.252896, 54.612852]
+			},
+      "properties": {
+				"title": "Memento.lt"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.272170, 54.604766]
+			},
+      "properties": {
+				"title": "Senosios Salininkų kapinės"
+      }
+		},
+		{
+			"type": "Feature",
+			"geometry": {
+				"type": "Point",
+				"coordinates": [25.287729, 54.655407]
+			},
+      "properties": {
+				"title": "Šarūno kapas"
+      }
+		}
+	]
 }
