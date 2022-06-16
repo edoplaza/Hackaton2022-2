@@ -1,0 +1,3615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "ingridak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "bodem1935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "juozas552"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "SilvijaS-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3541, 54.5599]
+      },
+      "properties": {
+        "title": "aneliuke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "luksoras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "artem1993213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "juodindre"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "Sruogis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.2512, 55.7323]
+      },
+      "properties": {
+        "title": "simparchstudio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.3471, 55.718]
+      },
+      "properties": {
+        "title": "Infinitylt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "Ekor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "lazdauskas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2913, 54.7161]
+      },
+      "properties": {
+        "title": "minvydasnorkunas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "lukasgraisas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2787, 54.6775]
+      },
+      "properties": {
+        "title": "ekjeebs"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8975, 54.9294]
+      },
+      "properties": {
+        "title": "vertexarchitecture"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "hetvildas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "JonasB-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "mantasgintest12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "MEZGEJAS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.663, 54.7854]
+      },
+      "properties": {
+        "title": "rolandasgirdzius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "hey-3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.0305, 54.9483]
+      },
+      "properties": {
+        "title": "majestic-eaglee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "sirokas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "glenkimaite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "ginkas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "grazina-bockute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8551, 55.9789]
+      },
+      "properties": {
+        "title": "zivilejanuskaityte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2941, 55.921]
+      },
+      "properties": {
+        "title": "kgu3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "jennyales"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.7483, 55.9815]
+      },
+      "properties": {
+        "title": "gloria-the-animator"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "marvinadams"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2941, 55.921]
+      },
+      "properties": {
+        "title": "Ali mirnemati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "vaidas-maldzius1995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "lukasmarc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "jeiizy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "PauliusG-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "jonas123dad12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2561, 54.6717]
+      },
+      "properties": {
+        "title": "sapropelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "j-ramaneckas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.291, 54.7167]
+      },
+      "properties": {
+        "title": "vikt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "Donatas-Balcetis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3108, 54.6995]
+      },
+      "properties": {
+        "title": "gintarerimo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "vilius-designer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "gytissakalauskas0912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.35, 55.7333]
+      },
+      "properties": {
+        "title": "babiliuskestas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "shotlung"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.0686, 55.9175]
+      },
+      "properties": {
+        "title": "raimisfx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "polymode"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.1667, 55.15]
+      },
+      "properties": {
+        "title": "TomasG-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "juste-balsyte0"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "lukas-2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "subliuskes-bugnas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3541, 54.5599]
+      },
+      "properties": {
+        "title": "indre-kirlyte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "evelina-vaitkune"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "saulius296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "fiz-inform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "onovosa10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3868, 54.3086]
+      },
+      "properties": {
+        "title": "agnejan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "testingman7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2942, 55.921]
+      },
+      "properties": {
+        "title": "ciamarius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "justeb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2609, 54.702]
+      },
+      "properties": {
+        "title": "cgilive"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "liudasku"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.75, 55.25]
+      },
+      "properties": {
+        "title": "interob"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2887, 54.7159]
+      },
+      "properties": {
+        "title": "polymodestudio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8713, 54.8214]
+      },
+      "properties": {
+        "title": "nerijus-juronis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "Vilius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "donatas-maliauskas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "vytas3d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.35, 55.7333]
+      },
+      "properties": {
+        "title": "lostorange"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8477, 54.8874]
+      },
+      "properties": {
+        "title": "kirmisas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "portfolio-test"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "tenro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.5333, 55.8167]
+      },
+      "properties": {
+        "title": "reikaste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9128, 54.899]
+      },
+      "properties": {
+        "title": "kaan2002tf2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "mantasgintest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "uhn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "makselyte+wildcat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "skullfaceguy99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "rugile"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "rokas-test-new"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "JustasCGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8241, 54.8964]
+      },
+      "properties": {
+        "title": "belenkoksas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "comercial5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "bradencornelius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8765, 54.8321]
+      },
+      "properties": {
+        "title": "8-bit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.7642, 55.0756]
+      },
+      "properties": {
+        "title": "dovisspeed"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "mantasgintest2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "mantasgintest4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8241, 54.8964]
+      },
+      "properties": {
+        "title": "strongemailname1986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "jusasv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2148, 54.6871]
+      },
+      "properties": {
+        "title": "deinarchas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "paulius.sruogis@cgtrader.com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "blurwall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "hardsurfaceunit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "lauracgi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "skirmute08"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "rokas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "freeza678"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "dovydas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8241, 54.8964]
+      },
+      "properties": {
+        "title": "matusaitiene-aurelija"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.7036, 55.3594]
+      },
+      "properties": {
+        "title": "nibercyb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.2512, 55.7323]
+      },
+      "properties": {
+        "title": "AndriusK-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1391, 55.7068]
+      },
+      "properties": {
+        "title": "higgsasmotion"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "mantasgin2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1676, 55.6782]
+      },
+      "properties": {
+        "title": "klaidasr-ragainis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.291, 54.7167]
+      },
+      "properties": {
+        "title": "Lukas1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.5836, 55.0757]
+      },
+      "properties": {
+        "title": "arvisdodge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "as57699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "Richy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2501, 54.6778]
+      },
+      "properties": {
+        "title": "goldbe69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "stagingmaster"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2501, 54.6778]
+      },
+      "properties": {
+        "title": "goldbe47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "threedddesigner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "cgtradertest95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "vytautasz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.1932, 54.6]
+      },
+      "properties": {
+        "title": "arternum"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "threedddesign"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "1euras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "degreem"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9206, 54.8977]
+      },
+      "properties": {
+        "title": "wictor-e"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "3dmaciulis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3377, 54.7225]
+      },
+      "properties": {
+        "title": "zozeorswaf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "EvaldasM-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "kamille"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3147, 55.9314]
+      },
+      "properties": {
+        "title": "ignasu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.75, 56.2]
+      },
+      "properties": {
+        "title": "diamond-man-carlos"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "new-user-test"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2152, 54.6884]
+      },
+      "properties": {
+        "title": "tobeacid"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.98, 54.609]
+      },
+      "properties": {
+        "title": "gustinabuivydaite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "alexey75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "paulius-cerkauskas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "aivarasfx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.2754, 55.0801]
+      },
+      "properties": {
+        "title": "dziugas306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "cobrazon1337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.1932, 54.6]
+      },
+      "properties": {
+        "title": "pliurzmantas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "eduard-customer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "viktoras-jr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "ElecT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "algirdasmarkauskas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2147, 54.6873]
+      },
+      "properties": {
+        "title": "keima105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "kundrotas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "einrotq"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "simkas12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "jbalysuk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "Aegis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "superitto"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "vaznevicius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.3997, 56.0625]
+      },
+      "properties": {
+        "title": "rokasz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "gustr11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "liobel"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "dovydasdvl"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "mm-vasiliauskas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "3d-unit-info"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "pjansonas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2561, 54.6717]
+      },
+      "properties": {
+        "title": "qweqwernr1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "gintarasjonika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1391, 55.7068]
+      },
+      "properties": {
+        "title": "viktoraspavlovas123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "tmakselyte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "palauk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "valdas-neurovirtual"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3541, 54.5599]
+      },
+      "properties": {
+        "title": "kotrynatv3"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "kholod199"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9177, 54.905]
+      },
+      "properties": {
+        "title": "BlenderGuy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "balpijus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "mantasgintest10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "dzenetukas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "nerijuszeknys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "justimal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "imantas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "runkevicius-rytis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "vladislovas-bucilko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2561, 54.6717]
+      },
+      "properties": {
+        "title": "andriusk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9177, 54.905]
+      },
+      "properties": {
+        "title": "natas50000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "ignotas-kuprys"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "agneciz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8241, 54.8964]
+      },
+      "properties": {
+        "title": "nery"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9204, 54.8976]
+      },
+      "properties": {
+        "title": "pauliukas300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "amo456789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1035, 55.7254]
+      },
+      "properties": {
+        "title": "ernestaszxc345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "lazdauskieni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "adomotestas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "testing-portfolio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "kristijonas-sileika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "mantas-6b8bfd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "testeroner"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2913, 54.7161]
+      },
+      "properties": {
+        "title": "silverijus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9177, 54.905]
+      },
+      "properties": {
+        "title": "faktorstudio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1391, 55.7068]
+      },
+      "properties": {
+        "title": "icouldbreathe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2433, 54.7335]
+      },
+      "properties": {
+        "title": "marijusknabikas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.2897, 55.2522]
+      },
+      "properties": {
+        "title": "Mantas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3167, 55.9333]
+      },
+      "properties": {
+        "title": "nugasas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "ungadizainas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.1605, 55.3406]
+      },
+      "properties": {
+        "title": "sarunasmc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "banevicius-sarunas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "arnasvil"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2913, 54.7161]
+      },
+      "properties": {
+        "title": "zlatkus55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8551, 55.9789]
+      },
+      "properties": {
+        "title": "nokamer"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3324, 54.7347]
+      },
+      "properties": {
+        "title": "humanplanetstudio"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "vyteninho"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "mantasgintest13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "vilius-cgtrader"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3377, 54.7225]
+      },
+      "properties": {
+        "title": "martikas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9128, 54.899]
+      },
+      "properties": {
+        "title": "mind-juod"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "am3dgraphics"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "tutorial-tester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "Juste"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "whiz3d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "gumenas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "IevaSmi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9204, 54.8976]
+      },
+      "properties": {
+        "title": "janulaityteieva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "kristina-m-design"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.8442, 55.9114]
+      },
+      "properties": {
+        "title": "barikman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2561, 54.6717]
+      },
+      "properties": {
+        "title": "gintaute64"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3377, 54.7225]
+      },
+      "properties": {
+        "title": "warrphy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "farhadr69"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "freakaz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2941, 55.921]
+      },
+      "properties": {
+        "title": "Tarlannb"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "dovydas17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3108, 54.6995]
+      },
+      "properties": {
+        "title": "devaudrius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "wildcat-testing-cgtrader"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "balbazauraz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "vilkas-3d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.49, 54.749]
+      },
+      "properties": {
+        "title": "-fantaisie-"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "nsz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "armandas-kaleinykas-2b7dc5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "CrocoRabbit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.8442, 55.9114]
+      },
+      "properties": {
+        "title": "beri8u"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8477, 54.8874]
+      },
+      "properties": {
+        "title": "lunaltu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "Dalia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "regrand"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "pauliusdscr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "aguka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "adolfas-mackonis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2941, 55.921]
+      },
+      "properties": {
+        "title": "iv-miro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.0414, 54.3964]
+      },
+      "properties": {
+        "title": "FirstSciFiRocks"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "karolismacernis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "JZ3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "entropyseven"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "SruogisWC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "MotiejusO-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "alexmcgt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "naujokelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "onovosa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "AnK1080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "edvinaskir-skirgaila"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8765, 54.8321]
+      },
+      "properties": {
+        "title": "vr-7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "viktorijasamokis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "bed-dmitry"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "VytautasR-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "StudioGhosted"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2501, 54.6778]
+      },
+      "properties": {
+        "title": "studio_XYZ"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8241, 54.8964]
+      },
+      "properties": {
+        "title": "viltyte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "quattro-man"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.5754, 54.2155]
+      },
+      "properties": {
+        "title": "wolfoldey2020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "3dcharacter"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.5855, 55.0461]
+      },
+      "properties": {
+        "title": "smindri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "dreaming-amber-2021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "ugnejaskulyte-1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "jurgis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "aBottlecap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.26, 54.7022]
+      },
+      "properties": {
+        "title": "testmaxelyte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "Tomelis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8477, 54.8874]
+      },
+      "properties": {
+        "title": "fliuke"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.8113, 54.7726]
+      },
+      "properties": {
+        "title": "ignas-kuncevicius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "jeanneddarc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "boneless"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "spirit"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "testing-portfolio1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9177, 54.905]
+      },
+      "properties": {
+        "title": "juskacgi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2648, 55.9106]
+      },
+      "properties": {
+        "title": "rameezmansuri"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3167, 55.9333]
+      },
+      "properties": {
+        "title": "threedavt"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.3944, 55.7095]
+      },
+      "properties": {
+        "title": "arvmon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "samjolita"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "google-arsenal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "vydas-jonka"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8551, 55.9789]
+      },
+      "properties": {
+        "title": "Rimas-Be"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "medakras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "simaskaciusis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3541, 54.5599]
+      },
+      "properties": {
+        "title": "edvinas-vitkus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2874, 54.6916]
+      },
+      "properties": {
+        "title": "jurate-mizare"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.0478, 54.9534]
+      },
+      "properties": {
+        "title": "povis050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9177, 54.905]
+      },
+      "properties": {
+        "title": "vizoterika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.987, 54.0157]
+      },
+      "properties": {
+        "title": "indre815"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "Robertasbillo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "mk3dboy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9096, 54.9027]
+      },
+      "properties": {
+        "title": "xaeon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "VaidaP"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "simeda2800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "sarunas-ramonas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "K32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "darya-berkovic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "kasparas-lucinskas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "sarunasa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "vytautas-juskevicius"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "mjankauskas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "zygisc"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3167, 55.9333]
+      },
+      "properties": {
+        "title": "EnterLine"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "rokasCgtukas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3108, 54.6995]
+      },
+      "properties": {
+        "title": "eduardas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3108, 54.6995]
+      },
+      "properties": {
+        "title": "DovydasL-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "rutelekap"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "bstst2"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "justinas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2601, 54.7013]
+      },
+      "properties": {
+        "title": "CTO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.4831, 55.3489]
+      },
+      "properties": {
+        "title": "laimonas-abro"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.2472, 55.9814]
+      },
+      "properties": {
+        "title": "giedriusk27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3167, 55.9333]
+      },
+      "properties": {
+        "title": "lukasvigelis11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "mantas-gineitis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "lina8"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "waupselis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.4699, 54.8478]
+      },
+      "properties": {
+        "title": "ilunaticous"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "mariuzas3d"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.2941, 55.921]
+      },
+      "properties": {
+        "title": "ptu1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "laiskas-mariui"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "ablamuchas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "GabijaR-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "ombo55"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "Leleiva"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.5992, 55.4976]
+      },
+      "properties": {
+        "title": "daliatest"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1391, 55.7068]
+      },
+      "properties": {
+        "title": "LemonadeCG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "AugusteV-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "gustavas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "mantasgintest7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.3957, 54.614]
+      },
+      "properties": {
+        "title": "vytautask"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2798, 54.6892]
+      },
+      "properties": {
+        "title": "lek-monika"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "pixelinside"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "agnema"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2625, 54.6779]
+      },
+      "properties": {
+        "title": "jonasvalainis"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "vilimaite"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.3541, 54.5599]
+      },
+      "properties": {
+        "title": "savias"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.2472, 55.9814]
+      },
+      "properties": {
+        "title": "lapukacom"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "raimis-fx"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2795, 54.6856]
+      },
+      "properties": {
+        "title": "ggavriluca"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "eduardas-tedxv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "vincas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "AugusteVaic"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "LucisLukas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.98, 54.609]
+      },
+      "properties": {
+        "title": "lukas-misiunas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "gytiscg"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "tkp12763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "empy-com"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "cgt-tester"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "buvosenisirsenute"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "NoXXART"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "CGTjonas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.1239, 55.3797]
+      },
+      "properties": {
+        "title": "Riopy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "testas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "ric253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2797, 54.6872]
+      },
+      "properties": {
+        "title": "jurgis-saliamoras"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2561, 54.6717]
+      },
+      "properties": {
+        "title": "alabama"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "povilastestas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "GustelioGoes3D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [22.7573, 54.6443]
+      },
+      "properties": {
+        "title": "malefikusas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2501, 54.6778]
+      },
+      "properties": {
+        "title": "LaurynasM-CGT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.1443, 55.7033]
+      },
+      "properties": {
+        "title": "ZygimantasJurgelevicius_wildcat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2501, 54.6778]
+      },
+      "properties": {
+        "title": "PixelLaw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "AtomStudios"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279, 54.6967]
+      },
+      "properties": {
+        "title": "dainiusstrauka"
+      }
+    }
+  ]
+}
