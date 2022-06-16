@@ -2,7 +2,7 @@ import React, { useRef, useEffect } from "react"
 import mapboxgl from "mapbox-gl"
 import "mapbox-gl/dist/mapbox-gl.css"
 
-mapboxgl.accessToken = 'pk.eyJ1IjoiZWRvcGxhemFjZ3RyYWRlciIsImEiOiJjbDRndm56Y2MwMDVhM2N0MzFhY3NycGVyIn0.hdpPu_Kiv3U9a1JdQIqRbA'
+mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN
 
 const App = () => {
   const mapContainer = useRef()
@@ -10,8 +10,8 @@ const App = () => {
     const map = new mapboxgl.Map({
       container: mapContainer.current,
       style: "mapbox://styles/mapbox/streets-v11",
-      center: [-87.903982, 43.020403],
-      zoom: 12,
+      center: [25.279652, 54.687157],
+      zoom: 10,
     })
     return () => map.remove()
 
