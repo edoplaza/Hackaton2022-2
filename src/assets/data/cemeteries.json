@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.135706, 54.721856]
+      },
+      "properties": {
+        "title": "Eduardo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.320319, 54.707186]
+      },
+      "properties": {
+        "title": "Mihkel"
+      }
+    }
+  ]
+}
