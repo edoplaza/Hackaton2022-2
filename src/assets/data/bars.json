@@ -1,0 +1,465 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.274966, 54.695009]
+        },
+        "properties": {
+          "title": "Skybar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.277647, 54.693888]
+        },
+        "properties": {
+          "title": "HAZE Pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.266854, 54.689482]
+        },
+        "properties": {
+          "title": "Bar DOG"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.267348, 54.687793]
+        },
+        "properties": {
+          "title": "Local Pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.284426, 54.686231]
+        },
+        "properties": {
+          "title": "Mr. Pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.281345, 54.685141]
+        },
+        "properties": {
+          "title": "Pablo Pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.279306, 54.684733]
+        },
+        "properties": {
+          "title": "rePUBlic No.4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.279533, 54.684276]
+        },
+        "properties": {
+          "title": "Bardakas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.277928, 54.684222]
+        },
+        "properties": {
+          "title": "Kas Kas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.278836, 54.683968]
+        },
+        "properties": {
+          "title": "Alchemikas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.279196, 54.683944]
+        },
+        "properties": {
+          "title": "Gringo pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.278875, 54.683819]
+        },
+        "properties": {
+          "title": "Uncle Sam's American pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.279603, 54.679956]
+        },
+        "properties": {
+          "title": "Cheers pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.285831, 54.680546]
+        },
+        "properties": {
+          "title": "Dream Bar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.288273, 54.680273]
+        },
+        "properties": {
+          "title": "Nomads Cocktail Bar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.295463, 54.680498]
+        },
+        "properties": {
+          "title": "Špunka"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.287046, 54.679159]
+        },
+        "properties": {
+          "title": "Who Hit John"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.277648, 54.677737]
+        },
+        "properties": {
+          "title": "Little Big Pub"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.282622, 54.677847]
+        },
+        "properties": {
+          "title": "Šnekutis"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.285077, 54.675406]
+        },
+        "properties": {
+          "title": "Apoteka Bar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.280982, 54.681250]
+        },
+        "properties": {
+          "title": "Piano Man Outside"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.282508, 54.684552]
+        },
+        "properties": {
+          "title": "Būsi trečias"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.284306, 54.684303]
+        },
+        "properties": {
+          "title": "Nisha Craft Capital"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.281901, 54.686898]
+        },
+        "properties": {
+          "title": "Plus Plus Plus"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.273150, 54.680810]
+        },
+        "properties": {
+          "title": "Teatro baras BALKONAS"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.289641, 54.684227]
+        },
+        "properties": {
+          "title": "Decantus Vyninė"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.285744, 54.684648]
+        },
+        "properties": {
+          "title": "Atelier Wine Boutique & Tasting Bar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.277046, 54.680941]
+        },
+        "properties": {
+          "title": "7 Fridays"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.273264, 54.680507]
+        },
+        "properties": {
+          "title": "Amy Winehouse"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.265981, 54.676771]
+        },
+        "properties": {
+          "title": "Elektrit"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.281939, 54.686568]
+        },
+        "properties": {
+          "title": "BarBados Tropical bar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.278571, 54.688346]
+        },
+        "properties": {
+          "title": "OPERA social house"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.283355, 54.686594]
+        },
+        "properties": {
+          "title": "Craft & Draft brewpub & whiskey"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.283700, 54.687531]
+        },
+        "properties": {
+          "title": "Salionas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.289339, 54.684241]
+        },
+        "properties": {
+          "title": "Spritz Summer Garden"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.294776, 54.683565]
+        },
+        "properties": {
+          "title": "Bernardinų kiemas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.295256, 54.683334]
+        },
+        "properties": {
+          "title": "Alaus Dėžė"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.286798, 54.679847]
+        },
+        "properties": {
+          "title": "Leičių Bravoras"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.289532, 54.679305]
+        },
+        "properties": {
+          "title": "Bromas Baras"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.288910, 54.677103]
+        },
+        "properties": {
+          "title": "Artistai"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.289324, 54.679161]
+        },
+        "properties": {
+          "title": "Savičiaus Špunka"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.293534, 54.680362]
+        },
+        "properties": {
+          "title": "Devinkė"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.287795, 54.678282]
+        },
+        "properties": {
+          "title": "Laisvalaikio kodas"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.289275, 54.674571]
+        },
+        "properties": {
+          "title": "Flow Bar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.285970, 54.673907]
+        },
+        "properties": {
+          "title": "Youngs' Club"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [25.288803, 54.675619]
+        },
+        "properties": {
+          "title": "Jazz Cellar 11"
+        }
+      }
+    ]
+  }

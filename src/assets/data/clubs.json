@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.270655, 54.677030]
+      },
+      "properties": {
+        "title": "Mazzor Night Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.271670, 54.680811]
+      },
+      "properties": {
+        "title": "Medusa Night Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.290110, 54.677130]
+      },
+      "properties": {
+        "title": "MORANT Gentlemen`s Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.278028, 54.694443]
+      },
+      "properties": {
+        "title": "Eden Club"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.279349, 54.684553]
+      },
+      "properties": {
+        "title": "Heavens"
+      }
+    }
+  ]
+}
