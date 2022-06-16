@@ -2,10 +2,14 @@ import React, { useRef, useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import "mapbox-gl/dist/mapbox-gl.css";
 
+import Counties from './assets/counties.json'
+
+
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_TOKEN;
 
 const App = () => {
   const mapContainer = useRef();
+
   useEffect(() => {
     const map = new mapboxgl.Map({
       container: mapContainer.current,
@@ -15,30 +19,27 @@ const App = () => {
     });
 
     map.on("load", () => {
-      console.log("loaded");
 
-      map.addSource("bus-routes", {
+      //Counties
+      map.addSource("counties", {
         type: "geojson",
-        data: "https://opendata.arcgis.com/datasets/4347f3565fbe4d5dbb97b016768b8907_0.geojson",
+        data: Counties,
       });
-
-      // map.addSource("lithuania", {
-      //   type: "geojson",
-      //   data:
-      //     "https://code.highcharts.com/mapdata/countries/lt/lt-all.topo.json"
-      // })
 
       map.addLayer({
-        id: "bus-routes-line",
-        type: "line",
-        source: "bus-routes",
+        id: "lithuanian-counties",
+        type: "fill",
+        source: "counties",
         paint: {
-          "line-color": "#15cc09",
-          "line-width": 4,
+          "fill-color": "#ffffff",
+          "fill-opacity": 0.8,
+          'fill-outline-color': 'red'
         },
+        filter: ["==", "$type", "Polygon"],
       });
 
-      map.addSource("national-park", {
+      //Cemeteries
+      map.addSource("cemeteries", {
         type: "geojson",
         data: {
           type: "FeatureCollection",
@@ -46,77 +47,25 @@ const App = () => {
             {
               type: "Feature",
               geometry: {
-                type: "Polygon",
-                coordinates: [
-                  [
-                    [-121.353637, 40.584978],
-                    [-121.284551, 40.584758],
-                    [-121.275349, 40.541646],
-                    [-121.246768, 40.541017],
-                    [-121.251343, 40.423383],
-                    [-121.32687, 40.423768],
-                    [-121.360619, 40.43479],
-                    [-121.363694, 40.409124],
-                    [-121.439713, 40.409197],
-                    [-121.439711, 40.423791],
-                    [-121.572133, 40.423548],
-                    [-121.577415, 40.550766],
-                    [-121.539486, 40.558107],
-                    [-121.520284, 40.572459],
-                    [-121.487219, 40.550822],
-                    [-121.446951, 40.56319],
-                    [-121.370644, 40.563267],
-                    [-121.353637, 40.584978],
-                  ],
-                ],
-              },
-            },
-            {
-              type: "Feature",
-              geometry: {
                 type: "Point",
-                coordinates: [-121.415061, 40.506229],
+                coordinates: [ 25.238212, 54.706052],
               },
             },
-            {
-              type: "Feature",
-              geometry: {
-                type: "Point",
-                coordinates: [-121.505184, 40.488084],
-              },
-            },
-            {
-              type: "Feature",
-              geometry: {
-                type: "Point",
-                coordinates: [-121.354465, 40.488737],
-              },
-            },
-          ],
-        },
-      });
+          ]
+        }
+      })
 
       map.addLayer({
-        id: "park-boundary",
-        type: "fill",
-        source: "national-park",
-        paint: {
-          "fill-color": "#888888",
-          "fill-opacity": 0.4,
-        },
-        filter: ["==", "$type", "Polygon"],
-      });
-
-      map.addLayer({
-        id: "park-volcanoes",
+        id: "vilinius-cemeteries",
         type: "circle",
-        source: "national-park",
+        source: "cemeteries",
         paint: {
           "circle-radius": 6,
-          "circle-color": "#B42222",
+          "circle-color": "#0000ff",
         },
         filter: ["==", "$type", "Point"],
       });
+      
     });
 
     return () => map.remove();
